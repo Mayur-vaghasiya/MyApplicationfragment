@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApplicationfragmentdemo</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="fargmentones">FargmentOne</string>
+    <string name="fargmenttwos">Fargmenttwo</string>
+    <string name="fargmentthrees">Fargmentthree</string>
+
+</resources>
